@@ -6,6 +6,6 @@ hello Git!
 hello Git!
 hello Git!
 hello Git!
-hello Git!
-hello Git!
+hello Git! hot-fix test
+hello Git! master test
 22222
